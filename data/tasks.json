@@ -1,0 +1,40 @@
+{
+    "tasks": [
+        {
+            "task_id": "task_1a2b3c",
+            "title": "Set up project repository",
+            "description": "Initialize a new Git repo and create standard structure.",
+            "assignee": "AdminUser",
+            "status": "Completed",
+            "created_at": "2023-10-01 10:00:00",
+            "completed_at": "2023-10-02 12:00:00"
+        },
+        {
+            "task_id": "task_4d5e6f",
+            "title": "Design Database Schema",
+            "description": "Create the logical data models for our application.",
+            "assignee": "Alice",
+            "status": "Pending",
+            "created_at": "2023-10-02 14:30:00",
+            "completed_at": null
+        },
+        {
+            "task_id": "task_7g8h9i",
+            "title": "Implement CLI Interface",
+            "description": "Build an interactive text-based UI for tasks.",
+            "assignee": "Bob",
+            "status": "Pending",
+            "created_at": "2023-10-03 09:15:00",
+            "completed_at": null
+        },
+        {
+            "task_id": "task_0j1k2l",
+            "title": "Integrate third-party API",
+            "description": "Ensure we can pull config from external sources.",
+            "assignee": "Unassigned",
+            "status": "Pending",
+            "created_at": "2023-10-04 11:22:00",
+            "completed_at": null
+        }
+    ]
+}

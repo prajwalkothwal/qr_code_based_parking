@@ -1,0 +1,9 @@
+# Requirements
+# For this project, we are only using the standard library.
+# However, to simulate a real project where team members might add dependencies
+# we define this requirements log.
+
+datetime
+json
+hashlib
+uuid
