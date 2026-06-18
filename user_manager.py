@@ -112,3 +112,4 @@ class UserManager:
         if self.current_user and self.current_user.role == "admin":
             return True
         return False
+    //this is user manager
